@@ -40,4 +40,4 @@ Folder `p02` di repository `pt-NPM` berisi `sinilai_v01.cpp`, dan  `README.md`. 
 
 ## Deklarasi AI
 
-Tuliskan AI yang digunakan, prompt, dan umpan balik AI
+GPT AI, prompt yang saya tanya, mengenai cara untuk dapat di run. Hasil AI menunjukkan agar mengetik "C/C++: gcc.exe build and debug avctive file" lanjut dideteksi sebagai compiler: C:\msys64\ucrt64\bin\gcc.exe, Menunggu proses compile, jika berhasil, program muncul di terminal.
